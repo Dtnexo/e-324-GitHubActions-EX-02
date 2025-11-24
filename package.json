@@ -1,0 +1,14 @@
+{
+  "name": "mini-node-ci",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "eslint-plugin-vue": "^10.5.1",
+    "globals": "^16.5.0"
+  }
+}
